@@ -1,5 +1,7 @@
 # Three.js Journey
 
+This project is based on Bruno Simon's project from Lesson 12 of Three.js Journey
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
