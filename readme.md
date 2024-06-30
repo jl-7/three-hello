@@ -2,6 +2,8 @@
 
 This project is based on Bruno Simon's project from Lesson 12 of Three.js Journey
 
+View it [here](https://three-hello-bjm6sj2g8-jiayis-projects-63c755df.vercel.app/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
