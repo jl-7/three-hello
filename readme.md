@@ -1,4 +1,4 @@
-# Three.js Journey
+# Three Hello
 
 This project is based on Bruno Simon's project from Lesson 12 of Three.js Journey
 
